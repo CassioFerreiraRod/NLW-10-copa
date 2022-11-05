@@ -23,7 +23,7 @@ function createCards(date, day, games) {
 
 document.querySelector("#app").innerHTML = `
    <header>
-        <img src="./ASSETS/LOGO.SVG" alt="" />
+        <img src="ASSETS/LOGO.SVG" alt="" />
       </header>
 
       <main id="cards">
